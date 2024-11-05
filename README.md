@@ -1,21 +1,31 @@
-# My IT Course Project
+# IT Fundamentals and Operations Project
 
 ## Short Description
-An exploration of essential IT concepts, covering hardware, networking, cybersecurity, and cloud computing, complemented by practical exercises and labs.
+This GitHub project documents my comprehensive IT studies, with hands-on exercises and real-world applications across core topics.
+# Table of Contents
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Course Outline](#course-outline)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
-- [Acknowledgments](#acknowledgments)
+1. **[Introduction to IT](#introduction-to-it)**
+   - [Hardware Basics](#hardware-basics)
+   - [Operating Systems & Software Basics](#operating-systems--software-basics)
+   - [What is Networking?](#what-is-networking)
+   - [IPv4 Address Basics](#ipv4-address-basics)
+   - [Ports and Protocols](#ports-and-protocols)
+   - [MAC Addresses](#mac-addresses)
+   - [The OSI Model](#the-osi-model)
+   - [Cybersecurity](#cybersecurity)
+   - [Introduction to Cloud Computing](#introduction-to-cloud-computing)
 
-## Installation
-Follow these steps to set up the project locally:
+2. **[The Day to Day](#the-day-to-day)**
+   - [Working Tickets](#working-tickets)
+   - [Common Issues](#common-issues)
+   - [Common Tools](#common-tools)
+   - [Customer Service & Soft Skills](#customer-service--soft-skills)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
+3. **[The Labs](#the-labs)**
+   - [Azure Crash Course](#azure-crash-course)
+   - [Azure Compute & Networking](#azure-compute--networking)
+   - [Ticketing Systems](#ticketing-systems)
+   - [Virtual Private Networks](#virtual-private-networks)
+   - [Active Directory](#active-directory)
+   - [DNS](#dns)
+   - [Network File Shares and Permissions](#network-file-shares-and-permissions)
