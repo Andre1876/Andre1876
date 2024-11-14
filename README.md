@@ -1,4 +1,4 @@
-# Hi, I'm André! 👋
+# Hi, I'm André Lawrence! 👋
 
 ## About Me
 I’m a tech enthusiast currently transitioning into the IT field from the hospitality and cruise industry. I'm studying IT through CourseCareers, working towards certifications like ISC2 CC, and aiming to build a career in cybersecurity and tech support.
@@ -20,7 +20,7 @@ I’m a tech enthusiast currently transitioning into the IT field from the hospi
 
 ## Contact Me
 - 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+<!-- - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com) -->
 
 ---
 
