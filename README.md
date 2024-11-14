@@ -1,3 +1,34 @@
+# Hi, I'm André! 👋
+
+## About Me
+I’m a tech enthusiast currently transitioning into the IT field from the hospitality and cruise industry. I'm studying IT through CourseCareers, working towards certifications like ISC2 CC, and aiming to build a career in cybersecurity and tech support.
+
+- 🔭 I’m currently working on projects to enhance my GitHub profile.
+- 🌱 I’m currently learning IT fundamentals and cloud technologies (Azure).
+- 👯 I’m collaborating with fellow learners and professionals in the tech community.
+- 🤔 I’m looking for opportunities in IT support, cloud computing, and cybersecurity.
+- 💬 Ask me about IT certifications, hardware, software, and cybersecurity.
+
+## My GitHub Stats
+![An image of my GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+## Latest Blog Posts
+<!-- Use a tool like [dev.to](https://dev.to) to pull your latest blog posts here -->
+
+## Contact Me
+- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andre-linkedin)
+- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+
+---
+
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+
+
+
 <figure><embed src="https://wakatime.com/share/@7087347c-321a-4058-a0b0-5519432b03ef/1583b267-a528-4c41-ba9a-45fe75b46f4b.svg"></embed></figure>
 
 # IT Fundamentals and Operations Project
