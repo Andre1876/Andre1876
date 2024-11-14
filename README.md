@@ -5,7 +5,7 @@ I’m a tech enthusiast currently transitioning into the IT field from the hospi
 
 - 🔭 I’m currently working on projects to enhance my GitHub profile.
 - 🌱 I’m currently learning IT fundamentals and cloud technologies (Azure).
-- 👯 I’m collaborating with fellow learners and professionals in the tech community.
+- 👬 I’m collaborating with fellow learners and professionals in the tech community.
 - 🤔 I’m looking for opportunities in IT support, cloud computing, and cybersecurity.
 - 💬 Ask me about IT certifications, hardware, software, and cybersecurity.
 
