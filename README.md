@@ -15,11 +15,10 @@ I’m a tech enthusiast currently transitioning into the IT field from the hospi
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
-## Latest Blog Posts
 <!-- Use a tool like [dev.to](https://dev.to) to pull your latest blog posts here -->
 
-## Contact Me
-- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
+<!--## Contact Me
+<!--- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
 <!-- - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com) -->
 
 ---
@@ -31,7 +30,7 @@ I’m a tech enthusiast currently transitioning into the IT field from the hospi
 
 <figure><embed src="https://wakatime.com/share/@7087347c-321a-4058-a0b0-5519432b03ef/1583b267-a528-4c41-ba9a-45fe75b46f4b.svg"></embed></figure>
 
-# IT Fundamentals and Operations Project
+<!--# IT Fundamentals and Operations Project
 
 ## Short Description
 This GitHub project documents my comprehensive IT studies, with hands-on exercises and real-world applications across core topics.
