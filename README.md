@@ -63,10 +63,10 @@ This GitHub project documents my comprehensive IT studies, with hands-on exercis
    - [Network File Shares and Permissions](#network-file-shares-and-permissions)
   
 
+OS TICKETING
+<img src="https://www.synaxiom.com/wp-content/uploads/2016/06/osticket-supsys-sm.png" alt="OS Ticketing System" />
 
-
-
-
+<img src="https://blog.desdelinux.net/wp-content/uploads/2016/12/Open-Source-Ticket-System.png" alt="OS Ticketing System Setup" />
 
 
 
