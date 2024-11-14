@@ -9,11 +9,12 @@ I’m a tech enthusiast currently transitioning into the IT field from the hospi
 - 🤔 I’m looking for opportunities in IT support, cloud computing, and cybersecurity.
 - 💬 Ask me about IT certifications, hardware, software, and cybersecurity.
 
+
 ## My GitHub Stats
-![An image of my GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![An image of my GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre1876&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1876&layout=compact&theme=radical)
 
 <!-- Use a tool like [dev.to](https://dev.to) to pull your latest blog posts here -->
 
