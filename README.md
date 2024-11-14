@@ -19,7 +19,7 @@ I’m a tech enthusiast currently transitioning into the IT field from the hospi
 <!-- Use a tool like [dev.to](https://dev.to) to pull your latest blog posts here -->
 
 ## Contact Me
-- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andre-linkedin)
+- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
 - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
 
 ---
