@@ -22,11 +22,15 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 <!--- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
 <!-- - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com) -->
 
+
+
+<!-- > "The only way to do great work is to love what you do." – Steve Jobs  -->
+> ## 💬 Motivational Quotes
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFFFFF&size=20&center=true&width=1000&lines=The+Only+Way+To+Do+Great+Work+Is+To+Love+What+You+Do.+–+Steve+Jobs;Success+Is+Not+Final%2C+Failure+Is+Not+Fatal%3A+It+Is+The+Courage+To+Continue+That+Counts.+–+Winston+Churchill;Believe+You+Can+And+You're+Halfway+There.+–+Theodore+Roosevelt;Your+Time+Is+Limited%2C+So+Don't+Waste+It+Living+Someone+Else's+Life.+–+Steve+Jobs;Don’t+Watch+The+Clock%3B+Do+What+It+Does.+Keep+Going.+–+Sam+Levenson;Success+Usually+Comes+To+Those+Who+Are+Too+Busy+To+Be+Looking+For+It.+–+Henry+David+Thoreau;" alt="Motivational Quotes">
+</div>
+
 ---
-
-> "The only way to do great work is to love what you do." – Steve Jobs
-
-
 
 
 <figure><embed src="https://wakatime.com/share/@7087347c-321a-4058-a0b0-5519432b03ef/1583b267-a528-4c41-ba9a-45fe75b46f4b.svg"></embed></figure>
