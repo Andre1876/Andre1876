@@ -1,5 +1,8 @@
 # Hi, I'm André Lawrence! 👋
 
+<!-- Why do programmers prefer dark mode? -->
+<!-- Because the light attracts bugs! 🐞 -->
+
 ## About Me
 I’m a tech enthusiast transitioning from the hospitality and cruise industry into Tech IT, with a focus on eventually advancing into cybersecurity. I recently completed the ISC2 Certified in Cybersecurity (CC) and the Google IT Support Professional Certificate and am currently advancing my skills through the CourseCareers IT Professional program. Next on my certification path are the CompTIA A+ and Security+.
 
@@ -31,7 +34,8 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 </div>
 
 ---
-
+<!-- I would tell you a joke about an array, -->
+<!-- but it’s out of index... 😜 -->
 
 <figure><embed src="https://wakatime.com/share/@7087347c-321a-4058-a0b0-5519432b03ef/1583b267-a528-4c41-ba9a-45fe75b46f4b.svg"></embed></figure>
 
