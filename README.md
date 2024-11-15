@@ -1,13 +1,13 @@
 # Hi, I'm André Lawrence! 👋
 
 ## About Me
-I’m a tech enthusiast currently transitioning into the IT field from the hospitality and cruise industry. I'm studying IT through CourseCareers, working towards certifications like ISC2 CC, and aiming to build a career in cybersecurity and tech support.
+I’m a tech enthusiast transitioning from the hospitality and cruise industry into Tech IT, with a focus on eventually advancing into cybersecurity. I recently completed the ISC2 Certified in Cybersecurity (CC) and the Google IT Support Professional Certificate and am currently advancing my skills through the CourseCareers IT Professional program. Next on my certification path are the CompTIA A+ and Security+.
 
-- 🔭 I’m currently working on projects to enhance my GitHub profile.
-- 🌱 I’m currently learning IT fundamentals and cloud technologies (Azure).
-- 👬 I’m collaborating with fellow learners and professionals in the tech community.
-- 🤔 I’m looking for opportunities in IT support, cloud computing, and cybersecurity.
-- 💬 Ask me about IT certifications, hardware, software, and cybersecurity.
+- 🔭 I’m actively working on projects to enhance my GitHub profile.
+- 🌱 I’m deepening my knowledge in IT fundamentals, including hardware, software, and cloud technologies like Azure.
+- 👬 I’m engaged in collaborative projects with fellow learners and professionals in the tech community.
+- 🤔 I’m seeking opportunities in IT support, cloud computing, and cybersecurity.
+- 💬 Feel free to ask me about IT certifications, hardware, software, and cybersecurity.
 
 
 ## My GitHub Stats
