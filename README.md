@@ -4,7 +4,7 @@
 <!-- Because the light attracts bugs! 🐞 -->
 
 ## About Me
-I’m a tech enthusiast transitioning from the hospitality and cruise industry into Tech IT, with a focus on eventually advancing into cybersecurity. I recently completed the ISC2 Certified in Cybersecurity (CC) and the Google IT Support Professional Certificate and am currently advancing my skills through the CourseCareers IT Professional program. Next on my certification path are the CompTIA A+ and Security+.
+I’m a tech enthusiast transitioning from the hospitality and cruise industry into Tech IT, with a focus on eventually advancing into cybersecurity. I recently completed the ISC2 Certified in Cybersecurity (CC) and the Google IT Support Professional Certificate and am currently advancing my skills through the [CourseCareers](https://coursecareers.com/a/2644ea55) IT Professional program. Next on my certification path are the CompTIA A+ and Security+.
 
 - 🔭 I’m actively working on projects to enhance my GitHub profile.
 - 🌱 I’m deepening my knowledge in IT fundamentals, including hardware, software, and cloud technologies like Azure.
