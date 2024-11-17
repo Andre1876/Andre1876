@@ -1,5 +1,4 @@
 # Hi, I'm André Lawrence! 👋
-<h1 align="center">Hi <img src="./img/icons/animatedwave.gif" width="50" height="50">,I'm André Lawrence!</h1>
 
 <!-- Why do programmers prefer dark mode? -->
 <!-- Because the light attracts bugs! 🐞 -->
@@ -20,26 +19,7 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1876&layout=compact&theme=radical)
 
-<!-- Use a tool like [dev.to](https://dev.to) to pull your latest blog posts here -->
 
-
-<!-- <h1 align="center">Hi <img src="./img/icons/animatedwave.gif" width="50" height="50">, I'm Ronnie Moore</h1> -->
-
-
-
-<!--<p align="left">
-<a href="https://linkedin.com/in/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ronnieutd" width="40" height="40"></a>
-<a href="https://www.facebook.com/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="ronnieutd" height="40" width="40" /></a> -->
-</p>
-
-<br />
-
-
-
-<!--START_SECTION:badges-->
-
-<!--END_SECTION:badges-->
-<br />
 
 
 
