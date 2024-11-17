@@ -1,4 +1,5 @@
 # Hi, I'm André Lawrence! 👋
+<h1 align="center">Hi <img src="./img/icons/animatedwave.gif" width="50" height="50">,I'm André Lawrence!</h1>
 
 <!-- Why do programmers prefer dark mode? -->
 <!-- Because the light attracts bugs! 🐞 -->
