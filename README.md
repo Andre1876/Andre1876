@@ -21,6 +21,45 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 
 <!-- Use a tool like [dev.to](https://dev.to) to pull your latest blog posts here -->
 
+
+<!-- <h1 align="center">Hi <img src="./img/icons/animatedwave.gif" width="50" height="50">, I'm Ronnie Moore</h1> -->
+
+
+<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+
+<!--<p align="left">
+<a href="https://linkedin.com/in/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ronnieutd" width="40" height="40"></a>
+<a href="https://www.facebook.com/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="ronnieutd" height="40" width="40" /></a> -->
+</p>
+
+<br />
+
+
+
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
+<br />
+
+
+
+<p align="center">
+ 
+
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/></a> <a href="https://github.com/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
+ 
+</p>
+
+
+
+
+
+
+
+
 <!--## Contact Me
 <!--- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
 <!-- - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com) -->
