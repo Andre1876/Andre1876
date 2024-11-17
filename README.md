@@ -25,7 +25,6 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 <!-- <h1 align="center">Hi <img src="./img/icons/animatedwave.gif" width="50" height="50">, I'm Ronnie Moore</h1> -->
 
 
-<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 <!--<p align="left">
 <a href="https://linkedin.com/in/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ronnieutd" width="40" height="40"></a>
