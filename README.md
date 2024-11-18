@@ -49,9 +49,6 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 
 ---
 
-
-
-
 <!--## Contact Me
 <!--- 💼 LinkedIn: [André LinkedIn](https://www.linkedin.com/in/andré-lawrence-🇯🇲-🇺🇸-31883198)
 <!-- - 📧 Email: [Email@example.com](mailto:YourEmail@example.com) -->
