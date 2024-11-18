@@ -43,9 +43,6 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 
 
 
----
-
-
 
 
 
