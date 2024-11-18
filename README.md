@@ -13,6 +13,10 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 - 💬 Feel free to ask me about IT certifications, hardware, software, and cybersecurity.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andre1876&label=Profile%20views&color=0e75b6&style=flat" alt="andre1876" /> </p>
+
+<a href="https://discord.gg/andre8763831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="andre8763831" height="30" width="40" /></a>
+
 ## My GitHub Stats
 ![An image of my GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre1876&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
@@ -31,6 +35,15 @@ I’m a tech enthusiast transitioning from the hospitality and cruise industry i
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a> <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
  
 </p>
+
+---
+
+
+
+
+
+
+---
 
 
 
