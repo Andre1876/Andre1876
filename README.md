@@ -219,7 +219,7 @@ Microsoft Windows is the most widely used operating system for personal computer
 
 ---
 
-## 2. macOS
+# 2. macOS
 
 macOS is Apple's proprietary operating system for Mac computers. Known for its smooth performance, security, and integration with other Apple products, it’s popular among creative professionals and developers.
 
